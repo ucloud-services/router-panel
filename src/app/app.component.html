@@ -1,0 +1,14 @@
+<!-- Cabeçalho -->
+<mat-toolbar color="primary">
+    Router Panel
+    <span class="spacer"></span> <!-- Espaçador para empurrar os botões para a direita -->
+    <button mat-button (click)="profile()">{{ completeName }}</button>
+    <button mat-icon-button (click)="logoff()">
+        <mat-icon>exit_to_app</mat-icon>
+    </button>
+</mat-toolbar>
+
+<!-- Conteúdo principal -->
+<div>
+    <router-outlet></router-outlet>
+</div>

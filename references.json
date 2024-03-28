@@ -1,0 +1,73 @@
+[{
+    "href": "https://rancher.prprd.sendit.pt/",
+    "img": "assets/imgs/rancher_logo_icon.png",
+    "alt": "Rancher icon",
+    "name": "Rancher",
+    "hint":  "Interface web para o Kubernetes"
+  },{
+    "href": "https://sso.prprd.sendit.pt/auth/",
+    "img": "assets/imgs/keycloak_logo_icon.png",
+    "alt": "Keycloak icon",
+    "name": "KeyCloak",
+    "hint":  "Single sign on"
+  },{
+    "href": "https://app.prprd.sendit.pt/",
+    "img": "assets/imgs/arpoone_logo_icon.png",
+    "alt": "Arpoone icon",
+    "name": "Arpoone",
+    "hint":  "Aplicação principal"
+  },{
+    "href": "https://api.prprd.sendit.pt/",
+    "img": "assets/imgs/arpoone_logo_icon.png",
+    "alt": "Arpoone API icon",
+    "name": "Arpoone API",
+    "hint":  "API da aplicação principal"
+  },{
+    "href": "https://akhq.prprd.sendit.pt/",
+    "img": "assets/imgs/akhq_logo_icon.png",
+    "alt": "AKHQ icon",
+    "name": "AKHQ",
+    "hint":  "Gestão de conectores kafka"
+  },{
+    "href": "https://kafka-connect.prprd.sendit.pt/",
+    "img": "assets/imgs/kafkaconnect_logo_icon.png",
+    "alt": "Kafka Connect icon",
+    "name": "Kafka - Connect",
+    "hint":  "???"
+  },{
+    "href": "https://kafka-manager.prprd.sendit.pt/",
+    "img": "assets/imgs/kafka_logo_icon.png",
+    "alt": "Kafka Manager icon",
+    "name": "Kafka - Manager",
+    "hint":  "???"
+  },{
+    "href": "https://kafka-ui.prprd.sendit.pt/",
+    "img": "assets/imgs/kafka_logo_icon.png",
+    "alt": "Kafka UI icon",
+    "name": "Kafka - UI",
+    "hint":  "???"
+  },{
+    "href": "https://kafkatool.prprd.sendit.pt/",
+    "img": "assets/imgs/kafka_logo_icon.png",
+    "alt": "Kafkatool icon",
+    "name": "Kafkatool",
+    "hint":  "???"
+  },{
+    "href": "https://zeebe-monitor.prprd.sendit.pt/",
+    "img": "assets/imgs/zeebe_logo_icon.png",
+    "alt": "Zeebe Monitor icon",
+    "name": "Zeebe - Monitor",
+    "hint":  "Gestão de processos BPMN"
+  },{
+    "href": "https://gitlab.pdmfc.com/",
+    "img": "assets/imgs/gitlab_logo_icon.png",
+    "alt": "Gitlab icon",
+    "name": "Gitlab",
+    "hint":  "Repositório de codigo-fonte e CICD"
+  },{
+    "href": "https://go4group.atlassian.net/jira/software/c/projects/ARP/boards/148",
+    "img": "assets/imgs/jira_logo_icon.png",
+    "alt": "Jira icon",
+    "name": "Jira",
+    "hint":  "Quadro de gestão de atividades"
+  }]

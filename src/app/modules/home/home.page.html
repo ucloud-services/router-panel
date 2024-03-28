@@ -1,0 +1,15 @@
+<mat-grid-list cols="5" rowHeight="2:1">
+    <ng-container *ngIf="references">
+        <mat-grid-tile *ngFor="let reference of references">
+            <mat-card>
+                <mat-card-content style="text-align: center;">
+                    <a href="{{reference.href}}" target="_blank" >
+                        <img src="{{reference.img}}" class="image clip-circle" alt="{{reference.alt}}" matTooltip="{{reference.hint}}">
+                        <br />
+                        {{reference.name}}
+                    </a>
+                </mat-card-content>
+            </mat-card>
+        </mat-grid-tile>
+    </ng-container>
+</mat-grid-list>

@@ -1,0 +1,8 @@
+/.angular/cache
+node_modules/
+dist/
+*.DS_Store
+www
+
+src/assets/env.js
+.env
