@@ -31,5 +31,5 @@ references.json
 Exemplo de comando de execução do docker
 
 ```shell
-docker run --rm --name router-panel -p 8080:80 -e KEYCLOAK_URL=https://sso.example.com/auth/ -e KEYCLOAK_REALM=example -e KEYCLOAK_CLIENT_ID=router-panel -v $(pwd)/references.json:/usr/share/nginx/html/assets/references.json router-panel:0.0.1
+docker run --rm --name router-panel -p 8080:80 -e KEYCLOAK_URL=https://sso.example.com/auth/ -e KEYCLOAK_REALM=example -e KEYCLOAK_CLIENT_ID=router-panel -v $(pwd)/references.json:/usr/share/nginx/html/assets/references.json ghcr.io/ucloud-services/router-panel:v0.0.1
 ```
